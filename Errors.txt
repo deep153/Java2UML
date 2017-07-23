@@ -1,0 +1,4 @@
+C:\Users\USER\Documents\NetBeansProjects\Java2Uml\src\visualizer\JDI2JSON.java:2: warning: JPEG is internal proprietary API and may be removed in a future release
+import com.sun.imageio.plugins.jpeg.JPEG;
+                                   ^
+1 warning
